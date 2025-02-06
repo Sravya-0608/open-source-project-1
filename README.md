@@ -22,3 +22,10 @@ Step 3: Write the Original Code
 -Copy and Paste the Original Code:
 .Open TaxCalculator.java
 output:
+![Image](https://github.com/user-attachments/assets/5cabea82-e1e0-4142-bffa-ab6139eefc60)
+Step 4: Refactor the Code
+-Create Another Java File for Refactored Code:
+.Click on File > New File and save it with a different name, such as TaxCalculatorRefactored.java.
+-Open TaxCalculatorRefactored.java
+- output:
+  ![image](https://github.com/user-attachments/assets/ac4b49ac-1c6f-408d-a826-32c247b200de)
